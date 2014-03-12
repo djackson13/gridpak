@@ -5,3 +5,14 @@
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
 }
+
+ul {
+	background: green
+}
+p {
+background: red;
+}
+
+h1, h3 {
+	background:  orange;
+}
